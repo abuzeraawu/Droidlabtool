@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Droidlabtool</string>
+    <string name="version_uninstall">version uninstall</string>
+    <string name="phone_unlock">phone_unlock</string>
+    <string name="private_safe_unlock">private_safe_unlock</string>
+    <string name="contact_number_recovery">contact_number_recovery</string>
+    <string name="call_log_recovery">call_log_recovery</string>
+
+</resources>
